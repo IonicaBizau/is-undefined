@@ -1,0 +1,27 @@
+{
+  "name": "is-undefined",
+  "version": "1.0.0",
+  "description": "Check if a value is undefined or not.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "undefined",
+    "utility",
+    "check"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/is-undefined.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/is-undefined/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/is-undefined#readme"
+}
