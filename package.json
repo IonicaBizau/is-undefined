@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/is-undefined/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/is-undefined#readme"
+  "homepage": "https://github.com/IonicaBizau/is-undefined#readme",
+  "devDependencies": {
+    "tester": "^1.3.1"
+  }
 }
