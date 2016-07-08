@@ -51,7 +51,9 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
  - [`cli-box`](https://github.com/IonicaBizau/node-cli-box)—A library to generate ASCII boxes via NodeJS
+ - [`get-key-or-default`](https://github.com/lewismoten/get-key-or-default#readme) (by Lewis Edward Moten III)—Get object key or default value
  - [`obj-unflatten`](https://github.com/IonicaBizau/obj-unflatten#readme)—Convert flatten objects in nested ones.
+ - [`octothorpe-xo`](https://github.com/lewismoten/octothorpe-xo#readme) (by Lewis Edward Moten III)—A game of tic-tac-toe
  - [`powershell`](https://github.com/IonicaBizau/powershell#readme)—Run PowerShell scripts and commands from Node.js.
  - [`spooky-element`](https://github.com/maxtherocket/spooky-element) (by Max Rusan)—A lightweight DOM element wrapper with only the essentials (css, on, off, append, prepend ...)
  - [`spooky-router`](https://github.com/maxtherocket/spooky-router) (by Max Rusan)—The scariest router ever.
