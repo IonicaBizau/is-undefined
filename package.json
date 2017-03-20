@@ -1,6 +1,6 @@
 {
   "name": "is-undefined",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Check if a value is undefined or not.",
   "main": "lib/index.js",
   "directories": {
@@ -15,7 +15,7 @@
     "utility",
     "check"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -32,12 +32,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
