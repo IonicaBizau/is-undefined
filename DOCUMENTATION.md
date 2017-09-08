@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Checks if a value is undefined or not.
 
 #### Params
+
 - **Anything** `input`: The input value.
 
 #### Return
