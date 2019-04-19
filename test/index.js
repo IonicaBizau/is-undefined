@@ -4,12 +4,12 @@ const tester = require("tester")
 
 tester.describe("undefined", test => {
     test.it("undefined should be undefined", () => {
-        test.expect(isUndefined(undefined), true);
+        test.expect(isUndefined(undefined)).toBe(true);
     });
     test.it("anything else should not be undefined", () => {
-        test.expect(isUndefined(42), false);
-        test.expect(isUndefined(0), false);
-        test.expect(isUndefined("foo"), false);
-        test.expect(isUndefined(""), false);
+        test.expect(isUndefined(42)).toBe(false);
+        test.expect(isUndefined(0)).toBe(false);
+        test.expect(isUndefined("foo")).toBe(false);
+        test.expect(isUndefined("")).toBe(false);
     });
 });
