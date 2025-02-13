@@ -1,6 +1,6 @@
 {
   "name": "is-undefined",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Check if a value is undefined or not.",
   "main": "lib/index.js",
   "directories": {
@@ -39,6 +39,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"

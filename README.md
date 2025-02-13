@@ -19,7 +19,7 @@
 
 # is-undefined
 
- [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/is-undefined.svg)](https://www.npmjs.com/package/is-undefined) [![Downloads](https://img.shields.io/npm/dt/is-undefined.svg)](https://www.npmjs.com/package/is-undefined) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/is-undefined.svg)](https://www.npmjs.com/package/is-undefined) [![Downloads](https://img.shields.io/npm/dt/is-undefined.svg)](https://www.npmjs.com/package/is-undefined) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/@johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 <a href="https://www.buymeacoffee.com/H96WwChMy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 
@@ -96,6 +96,7 @@ console.log(isUndefined(null));
 
 
 
+
 ## :question: Get Help
 
 There are few ways to get help:
@@ -105,6 +106,8 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
 
 
 
@@ -176,27 +179,34 @@ Thanks! :heart:
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - `tilda`
+ - `@abdfnx/powershell`
+ - `@chalkbox/custom`
+ - `@chalkbox/terminal`
+ - `@khoulzo/itsm-date-formatter`
+ - `array-get-member`
  - `cli-box`
- - `powershell`
- - `spooky-element`
- - `obj-unflatten`
- - `spooky-view-manager`
- - `is-eq-four`
- - `is-eq-six`
+ - `falsejs`
+ - `get-key-or-default`
+ - `get-member`
+ - `is-eq-eight`
  - `is-eq-five`
+ - `is-eq-four`
+ - `is-eq-nine`
+ - `is-eq-one`
+ - `is-eq-seven`
+ - `is-eq-six`
+ - `is-eq-ten`
+ - `is-eq-ten-thousand`
  - `is-eq-three`
  - `is-eq-two`
- - `is-eq-one`
  - `is-eq-zero`
- - `is-eq-seven`
- - `is-eq-eight`
- - `@khoulzo/itsm-date-formatter`
- - `spooky-router`
+ - `obj-unflatten`
  - `octothorpe-xo`
- - `get-key-or-default`
- - `is-eq-ten`
- - `is-eq-nine`
+ - `powershell`
+ - `spooky-element`
+ - `spooky-router`
+ - `spooky-view-manager`
+ - `tilda`
 
 
 
